@@ -1,0 +1,17 @@
+{
+  "name": "gcsales-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for gcSales project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Surovtsev",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "firebase-admin": "^7.2.0",
+    "moment": "^2.24.0",
+    "puppeteer": "^1.14.0"
+  }
+}
